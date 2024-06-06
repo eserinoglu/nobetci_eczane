@@ -1,3 +1,5 @@
+<img src="https://github.com/eserinoglu/nobetci_eczane/assets/132064533/518966eb-08c8-48a4-9991-4ebe76dfcbed" alt="logo" width="230" height="50">
+
 # Nöbetçi Eczane - iOS App
 Nöbetçi Eczane is a user-friendly application designed to help users quickly find open pharmacies near their location.
 This app integrates location services and maps to provide detailed information about nearby duty pharmacies, including their contact details, and directions.
